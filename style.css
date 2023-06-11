@@ -1,0 +1,22 @@
+
+.main{
+    text-align: center;
+}
+#text_area{
+    
+    margin: auto;
+    width: 50%;
+    height: 20vh;
+    
+    margin-top: 10%;
+    border-radius: 20px;
+}
+.btn{
+    background-color: rgb(162, 189, 204);
+    padding: 10px;
+    border-radius: 10px;
+}
+.bottom{
+    position: absolute;
+    bottom: 20px;
+}
